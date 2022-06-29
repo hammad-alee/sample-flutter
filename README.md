@@ -38,12 +38,4 @@ After successful build, your application structure should look like this:
     │   └── screens                 - contains all screens
     ├── routes                      - contains all the routes of application
     └── theme                       - contains app theme and decoration classes
-```
-
-### How you can do code formatting?
-
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-# sample-flutter
+```# sample-flutter
